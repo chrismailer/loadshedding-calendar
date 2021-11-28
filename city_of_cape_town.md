@@ -4,8 +4,6 @@ title: City of Cape Town
 permalink: /City of Cape Town/
 ---
 
-# City of Cape Town
-
 Find your area number on the [map](https://www.capetown.gov.za/Loadshedding1/loadshedding/maps/Load_Shedding_All_Areas_Schedule_and_Map.pdf).
 
 [Area 1](webcal://raw.githubusercontent.com/chrismailer/loadshedding-calendar/main/area_1.ics)
