@@ -8,4 +8,4 @@ description: Subscribable load-shedding calendars that update automagically
 favicon: "candle.png"
 
 theme_config:
-  appearance: "auto" # can be "light", "dark" or "auto"
+  appearance: "dark" # can be "light", "dark" or "auto"
