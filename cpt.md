@@ -7,7 +7,7 @@ Find your area number on the [map](https://www.capetown.gov.za/Loadshedding1/loa
 
 [Area 1](webcal://raw.githubusercontent.com/chrismailer/loadshedding/main/western_cape/city_of_cape_town/area_1.ics)
 [Add to Google Calendar](https://calendar.google.com/calendar/u/0/r?cid=webcal%3A%2F%2Fraw.githubusercontent.com/chrismailer/loadshedding/main/western_cape/city_of_cape_town/area_1.ics)
-[Add to Google Calendar 2](https://calendar.google.com/calendar/u/0/r?cid=[webcal%3A%2F%2Fraw.githubusercontent.com%2Fchrismailer%2Floadshedding%2Fmain%2Fwestern_cape%2Fcity_of_cape_town%2Farea_1.ics])
+[Add to Google Calendar 2](https://calendar.google.com/calendar/u/0/r?cid=webcal%3A%2F%2Fraw.githubusercontent.com%2Fchrismailer%2Floadshedding%2Fmain%2Fwestern_cape%2Fcity_of_cape_town%2Farea_1.ics)
 
 [Area 2](webcal://raw.githubusercontent.com/chrismailer/loadshedding/main/western_cape/city_of_cape_town/area_2.ics)
 
