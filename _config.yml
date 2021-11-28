@@ -1,3 +1,4 @@
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
+remote_theme: riggraz/no-style-please
 title: Load-shedding Calendar 🕯️
 description: Subscribable load-shedding calendars that update automagically
