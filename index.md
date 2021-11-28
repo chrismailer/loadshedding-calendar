@@ -1,4 +1,4 @@
-## [City of Cape Town]{% link /city_of_cape_town.md %}
+### {% link /city_of_cape_town.md %}
 
 ### Support or Contact
 
