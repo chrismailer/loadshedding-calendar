@@ -1,9 +1,11 @@
 ## How to use
 
 
-## City of Cape Town Area's
+## City of Cape Town
 
-You can use the [editor on GitHub](https://github.com/chrismailer/loadshedding/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Area 1](webcal://raw.githubusercontent.com/chrismailer/loadshedding-calendar/main/area_1.ics)
+
+<a href="webcal://raw.githubusercontent.com/chrismailer/loadshedding-calendar/main/area_1.ics">Area 1</a>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
