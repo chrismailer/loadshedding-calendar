@@ -1,4 +1,6 @@
-### {% link /city_of_cape_town.md %}
+---
+layout: home
+---
 
 ### Support or Contact
 
