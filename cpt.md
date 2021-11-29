@@ -9,6 +9,6 @@ Find your area number on the [map](https://www.capetown.gov.za/Loadshedding1/loa
 {% assign googleURL = "https://calendar.google.com/calendar/u/0/r?cid=" %}
 
 {% for i in (1..17) %}
-Area {{$i}} - [Add calendar]({{ baseURL | append: i | append: ".ics" }}), [Google Calendar]({{ googleURL | append baseURL | append: i | append: ".ics" }})
+Area {{$i}} - [Add calendar]({{ baseURL | append: i | append: ".ics" }}), [Google Calendar]({{ googleURL | append: baseURL | append: i | append: ".ics" }})
 {% endfor %}
 
