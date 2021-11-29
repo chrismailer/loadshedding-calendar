@@ -37,3 +37,9 @@ Area 1 - [Add Calendar](webcal://raw.githubusercontent.com/chrismailer/loadshedd
 [Area 15](webcal://raw.githubusercontent.com/chrismailer/loadshedding/main/western_cape/city_of_cape_town/area_15.ics)
 
 [Area 16](webcal://raw.githubusercontent.com/chrismailer/loadshedding/main/western_cape/city_of_cape_town/area_16.ics)
+
+
+{% for i in (1..17) %}
+- Area {{$i}}
+{% endfor %}
+
