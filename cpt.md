@@ -38,8 +38,9 @@ Area 1 - [Add Calendar](webcal://raw.githubusercontent.com/chrismailer/loadshedd
 
 [Area 16](webcal://raw.githubusercontent.com/chrismailer/loadshedding/main/western_cape/city_of_cape_town/area_16.ics)
 
+{% assign baseURL = "webcal://raw.githubusercontent.com/chrismailer/loadshedding/main/western_cape/city_of_cape_town/area_" %}
 
 {% for i in (1..17) %}
-- Area {{$i}}
+Area {{$i}} - [Add calendar]({{ baseURL | append: i | append: ".ics" }})
 {% endfor %}
 
