@@ -8,7 +8,7 @@ Find your area number on the [map](https://www.capetown.gov.za/Loadshedding1/loa
 {% assign baseURL = "webcal://raw.githubusercontent.com/chrismailer/loadshedding-calendar/feed/city_of_cape_town/area_" %}
 {% assign googleURL = "https://calendar.google.com/calendar/u/0/r?cid=" %}
 
-{% for i in (1..17) %}
+{% for i in (1..16) %}
 Area {{$i}} - [Add calendar]({{ baseURL | append: i | append: ".ics" }}),
 [Google Calendar]({{ googleURL | append: baseURL | append: i | append: ".ics" }})
 {% endfor %}
