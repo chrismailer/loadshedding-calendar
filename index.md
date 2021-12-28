@@ -4,7 +4,7 @@ layout: home
 
 ### How does it work?
 
-It is a calendar you can add on your device which will udate automatically.
+It is a calendar you can add on your device which will update automatically.
 
 
 ### Support or Contact
