@@ -1,7 +1,6 @@
 ---
 layout: page
 title: City of Cape Town
-type: default
 ---
 
 <ins>Apple/Outlook Calendar</ins>, [Google Calendar](cpt-google)
