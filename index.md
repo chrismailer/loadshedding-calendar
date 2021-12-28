@@ -4,8 +4,7 @@ layout: home
 ---
 
 ### How does it work?
-
-It is a calendar you can add on your device which will update automatically.
+The calendar updates automatically depending on the current stage and displays the next 7 days of load-shedding.
 
 
 ### Support or Contact
