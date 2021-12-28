@@ -1,8 +1,6 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-entries:  
-  - title: Eskom customers
-    url: eskom
-  - title: City of Cape Town customers
+entries:
+  - title: City of Cape Town
     url: cpt
