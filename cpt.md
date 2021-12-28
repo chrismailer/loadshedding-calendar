@@ -1,7 +1,10 @@
 ---
 layout: page
 title: City of Cape Town
+type: default
 ---
+
+[Apple](cpt), [Google](cpt-google)
 
 Find your area number on the [map](https://www.capetown.gov.za/Loadshedding1/loadshedding/maps/Load_Shedding_All_Areas_Schedule_and_Map.pdf).
 
