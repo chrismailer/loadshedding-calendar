@@ -1,10 +1,10 @@
 ---
 title: Load-shedding Calendar
+subtitle: EskomSePush, but in your calendar
 layout: home
 ---
 
 ### How does it work?
-EskomSePush, but in your calendar.
 Add an area to your calendar. This will update automatically with the latest load-shedding announcements.
 
 Works with Apple Calendar, Google Calendar, and Outlook.
