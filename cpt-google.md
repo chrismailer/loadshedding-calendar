@@ -3,7 +3,7 @@ layout: page
 title: City of Cape Town
 ---
 
-[Apple/Outlook Calendar](cpt), <ins>Google Calendar</ins>
+### [Apple/Outlook Calendar](cpt), <ins>Google Calendar</ins>
 
 
 Find your area number on the [map](https://www.capetown.gov.za/Loadshedding1/loadshedding/maps/Load_Shedding_All_Areas_Schedule_and_Map.pdf).
