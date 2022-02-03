@@ -3,7 +3,7 @@ title: Load-shedding Calendar
 layout: home
 ---
 
-## _EskomSePush, but in your calendar_ :candle:
+#### _EskomSePush, but in your calendar_
 
 ### How does it work?
 Add an area to your calendar. This will update automatically with the latest load-shedding periods. You can add as many areas as you want.
