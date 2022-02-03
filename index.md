@@ -3,7 +3,7 @@ title: Load-shedding Calendar 🕯️
 layout: home
 ---
 
-### EskomSePush, but in your calendar...
+### _EskomSePush, but in your calendar..._
 
 ### How does it work?
 Add an area to your calendar. This will update automatically with the latest load-shedding times.
