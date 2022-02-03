@@ -4,7 +4,8 @@ layout: home
 ---
 
 ### How does it work?
-Add an area schedule to your calendar. This will update automatically based on the current stage with the next 7 days of load-shedding.
+EskomSePush, but in your calendar.
+Add an area to your calendar. This will update automatically with the latest load-shedding announcements.
 
 
 ### Support or Contact
