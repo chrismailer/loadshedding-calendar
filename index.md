@@ -3,10 +3,10 @@ title: Load-shedding Calendar
 layout: home
 ---
 
-#### _EskomSePush for your calendar_
+#### _EskomSePush in your calendar_
 
 ### How does it work?
-Add an area to your calendar. This will update automatically with the latest load-shedding. You can add as many areas as you want.
+Add an area to your calendar by clicking the link. This will update automatically with the latest load-shedding. You can add as many areas as you want.
 
 
 ### Support
