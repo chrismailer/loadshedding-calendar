@@ -12,5 +12,5 @@ Find your [area number](https://www.capetown.gov.za/Loadshedding1/loadshedding/m
 {% assign googleURL = "https://calendar.google.com/calendar/u/0/r?cid=" %}
 
 {% for i in (1..16) %}
-Area {{$i}} - [Apple]({{ baseURL | append: i | append: ".ics" }}), [Outlook]({{ baseURL | append: i | append: ".ics" }}), [Google]({{ googleURL | append: baseURL | append: i | append: ".ics" }})
+Area {{$i}} - [Apple]({{ baseURL | append: i | append: ".ics" }}) [Outlook]({{ baseURL | append: i | append: ".ics" }}) [Google]({{ googleURL | append: baseURL | append: i | append: ".ics" }})
 {% endfor %}
