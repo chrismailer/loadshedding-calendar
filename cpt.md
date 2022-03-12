@@ -19,4 +19,5 @@ Area {{$i}} - [Add to Calendar]({{ baseURL | append: i | append: ".ics" }})
 1. Copy the "Add to Calendar" link for the area you'd like to add
 2. Paste the link [here](https://calendar.google.com/calendar/u/0/r/settings/addbyurl)
 3. Click Add calendar
+
 **NB**: Google calendar syncing can take up to 12 hours
